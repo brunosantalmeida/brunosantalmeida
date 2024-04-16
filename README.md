@@ -26,8 +26,10 @@
 
 ![brunosantalmeida GitHub stats](https://github-readme-stats.vercel.app/api?username=brunosantalmeida&show_icons=true&theme=radical)
 
+![Snake animation]
+https://github.com/brunosantalmeida/brunosantalmeida/blob/output/github-contribution-grid-snake.svg)
 
-
+[![readme](https://github-readme-stats.versel.app/api/pin/?brunosantalmeida=brunosantalmeida&repo=brunosantalmeida&theme=react)](http://github/your_brunosantalmeida)
   
   
    
