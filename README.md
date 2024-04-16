@@ -20,9 +20,9 @@
 ## 📫 Contato
 
 [![Gmail Badge](https://img.shields.io/badge/-ornubgandhy@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ornubegandhy@gmail.com)](mailto:ornugandhy@gmail.com)
-[![Linkedin: bruno](https://img.shields.io/badge/-brunosantosalmeida-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devbrunosantosalmeida/)](https://www.linkedin.com/in/devbrunosantosalmeida/)
 
-[![Linkedin: bruno](https://img.shields.io/badge/-brunosantosalmeida-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devellenias/)](https://www.linkedin.com/in/devellendias/)
+
+
 
 ![brunosantalmeida GitHub stats](https://github-readme-stats.vercel.app/api?username=brunosantalmeida&show_icons=true&theme=radical)
 
