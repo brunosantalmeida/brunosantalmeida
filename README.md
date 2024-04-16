@@ -26,11 +26,11 @@
 
 ![brunosantalmeida GitHub stats](https://github-readme-stats.vercel.app/api?username=brunosantalmeida&show_icons=true&theme=radical)
 
-Em busca de mais conhecimento ! 😊 <br><br>
+
 
   
   
-   ![Snake animation](github.com/brunosantalmeida/bloc/output/github-contribution-grid-snake.svg)
+   
   
-  
+  Em busca de mais conhecimento ! 😊 <br><br>
   
