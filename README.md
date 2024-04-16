@@ -1,16 +1,36 @@
-### Hi there 👋
+### Olá eu sou Bruno
 
-<!--
-**brunosantalmeida/brunosantalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente trabbalhando com formataçao de computadores . usuario linux des de 2006
+- 🌱 Atualmente estou aprendendo Python, Java e FreeBSD
+<h1 align="center">👋 Olá, eu sou Bruno santos almeida</h1>
+
+<p align="center">
+  💻 Estudante de Programação | 🌍 Apaixonado por Tecnologia
+</p><br><br>
+
+
+## 🚀 Linguagens de Programação
+[![My Skills](https://skillicons.dev/icons?i=java,python,)](https://skillicons.dev)<br><br>
+
+## 🛠️ Ferramentas e Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,git,github)](https://skillicons.dev)<br><br>
+
+## 📫 Contato
+
+[![Gmail Badge](https://img.shields.io/badge/-ornubgandhy@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ornubegandhy@gmail.com)](mailto:ornugandhy@gmail.com)
+[![Linkedin: bruno](https://img.shields.io/badge/-brunosantosalmeida-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devellenias/)](https://www.linkedin.com/in/devellendias/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/BrunoSan4043?style=social)]({Link}) <br><br>
+
+
+![brunosantalmeida GitHub stats](https://github-readme-stats.vercel.app/api?username=brunosantalmeida&show_icons=true&theme=radical)
+
+Em busca de mais conhecimento ! 😊 <br><br>
+
+  
+  
+   ![Snake animation](github.com/brunosantalmeida/bloc/output/github-contribution-grid-snake.svg)
+  
+  
+  
