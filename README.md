@@ -20,7 +20,7 @@
 ## 📫 Contato
 
 [![Gmail Badge](https://img.shields.io/badge/-ornubgandhy@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ornubegandhy@gmail.com)](mailto:ornugandhy@gmail.com)
-[![Linkedin: Bruno](https://img.shields.io/badge/-Brunosantalmeida-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devbrunosantalmeida/)](https://www.linkedin.com/in/devbrunosantalmeida/)
+[![Linkedin: Bruno](https://img.shields.io/badge/-brunosantalmeida-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunosantalmeida/)](https://www.linkedin.com/in/brunosantalmeida/)
 
 
 
